@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 06:55:14 (UTC)</th>
+		<th colspan=4>2022-11-11 07:00:50 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -90,7 +90,7 @@ If you like the project, please consider giving it a star!
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 214 | 4549 | 17584 | 153944 |
-| **:globe_with_meridians: Domains** | 102 | 382 | 2915 | 30001 |
+| **:globe_with_meridians: Domains** | 103 | 383 | 2916 | 30002 |
 | **:triangular_flag_on_post: IPs** | 44 | 670 | 3359 | 56955 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 253 | 2590 | 13625 | 184135 |
+| **#phishing** | 254 | 2591 | 13626 | 184136 |
 | **#scam** | 125 | 672 | 4296 | 34880 |
 | **#malware** | 108 | 2698 | 9661 | 26849 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
