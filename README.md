@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 02:10:47 (UTC)</th>
+		<th colspan=4>2022-11-11 02:19:11 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 104 | 4439 | 17474 | 153834 |
+| **:link: URLs** | 121 | 4456 | 17491 | 153851 |
 | **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
-| **:triangular_flag_on_post: IPs** | 27 | 653 | 3342 | 56938 |
+| **:triangular_flag_on_post: IPs** | 29 | 655 | 3344 | 56940 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 166 | 2503 | 13538 | 184048 |
+| **#phishing** | 183 | 2520 | 13555 | 184065 |
 | **#scam** | 122 | 669 | 4293 | 34877 |
-| **#malware** | 55 | 2645 | 9608 | 26796 |
+| **#malware** | 57 | 2647 | 9610 | 26798 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -137,9 +137,9 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 73 |
-| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
-| **#4** | [romonlyht](https://twitter.com/romonlyht) | 12 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 88 |
+| **#3** | [romonlyht](https://twitter.com/romonlyht) | 16 |
+| **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
 | **#6** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
