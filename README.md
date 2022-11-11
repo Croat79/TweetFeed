@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 06:06:23 (UTC)</th>
+		<th colspan=4>2022-11-11 06:16:09 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,21 +89,21 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 200 | 4535 | 17570 | 153930 |
-| **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
-| **:triangular_flag_on_post: IPs** | 43 | 669 | 3358 | 56954 |
+| **:link: URLs** | 202 | 4537 | 17572 | 153932 |
+| **:globe_with_meridians: Domains** | 102 | 382 | 2915 | 30001 |
+| **:triangular_flag_on_post: IPs** | 44 | 670 | 3359 | 56955 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
-| **:1234: MD5** | 0 | 235 | 1984 | 5408 |
+| **:1234: MD5** | 20 | 255 | 2004 | 5428 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 243 | 2580 | 13615 | 184125 |
-| **#scam** | 124 | 671 | 4295 | 34879 |
-| **#malware** | 85 | 2675 | 9638 | 26826 |
+| **#phishing** | 245 | 2582 | 13617 | 184127 |
+| **#scam** | 125 | 672 | 4296 | 34880 |
+| **#malware** | 104 | 2694 | 9657 | 26845 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
-| **#ransomware** | 0 | 41 | 548 | 1234 |
+| **#ransomware** | 10 | 51 | 558 | 1244 |
 | **#banker** | 0 | 0 | 6 | 33 |
 | **#AgentTesla** | 0 | 1 | 32 | 2753 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
@@ -118,7 +118,7 @@ If you like the project, please consider giving it a star!
 | **#GuLoader** | 0 | 0 | 7 | 220 |
 | **#Hancitor** | 0 | 0 | 0 | 45 |
 | **#IcedID** | 1 | 38 | 74 | 513 |
-| **#Lazarus** | 0 | 2 | 10 | 160 |
+| **#Lazarus** | 3 | 5 | 13 | 163 |
 | **#Lokibot** | 0 | 2 | 16 | 951 |
 | **#log4j** | 0 | 0 | 0 | 247 |
 | **#Log4shell** | 0 | 0 | 0 | 231 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 157 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 158 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 28 |
-| **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
-| **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#6** | [drb_ra](https://twitter.com/drb_ra) | 6 |
-| **#7** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 4 |
-| **#9** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#10** | [Dkavalanche](https://twitter.com/Dkavalanche) | 2 |
+| **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
+| **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
+| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
+| **#7** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#8** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 4 |
+| **#10** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
