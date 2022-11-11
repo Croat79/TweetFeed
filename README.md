@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 01:32:45 (UTC)</th>
+		<th colspan=4>2022-11-11 01:40:26 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 56 | 4391 | 17426 | 153786 |
+| **:link: URLs** | 86 | 4421 | 17456 | 153816 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 10 | 636 | 3325 | 56921 |
+| **:triangular_flag_on_post: IPs** | 12 | 638 | 3327 | 56923 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 25 | 2362 | 13397 | 183907 |
-| **#scam** | 3 | 550 | 4174 | 34758 |
-| **#malware** | 32 | 2622 | 9585 | 26773 |
+| **#phishing** | 39 | 2376 | 13411 | 183921 |
+| **#scam** | 8 | 555 | 4179 | 34763 |
+| **#malware** | 50 | 2640 | 9603 | 26791 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 41 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 65 |
 | **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#3** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#4** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
-| **#5** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#6** | [romonlyht](https://twitter.com/romonlyht) | 3 |
-| **#7** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
-| **#8** | [BanChaos](https://twitter.com/BanChaos) | 1 |
-| **#9** | [v4ensics](https://twitter.com/v4ensics) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#3** | [romonlyht](https://twitter.com/romonlyht) | 5 |
+| **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 5 |
+| **#5** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#6** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
+| **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
+| **#8** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
+| **#9** | [BanChaos](https://twitter.com/BanChaos) | 1 |
+| **#10** | [v4ensics](https://twitter.com/v4ensics) | 1 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
