@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 08:55:42 (UTC)</th>
+		<th colspan=4>2022-11-11 09:03:28 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 277 | 4614 | 17649 | 154009 |
+| **:link: URLs** | 284 | 4621 | 17656 | 154016 |
 | **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
-| **:triangular_flag_on_post: IPs** | 50 | 676 | 3365 | 56961 |
+| **:triangular_flag_on_post: IPs** | 51 | 677 | 3366 | 56962 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 294 | 2631 | 13666 | 184176 |
+| **#phishing** | 302 | 2639 | 13674 | 184184 |
 | **#scam** | 127 | 674 | 4298 | 34882 |
 | **#malware** | 124 | 2714 | 9677 | 26865 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 198 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 202 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 31 |
 | **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
 | **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
 | **#6** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 10 |
-| **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#8** | [harugasumi](https://twitter.com/harugasumi) | 7 |
-| **#9** | [BanChaos](https://twitter.com/BanChaos) | 6 |
-| **#10** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
+| **#7** | [AtomSpam](https://twitter.com/AtomSpam) | 10 |
+| **#8** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 7 |
+| **#10** | [BanChaos](https://twitter.com/BanChaos) | 6 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
