@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 06:35:44 (UTC)</th>
+		<th colspan=4>2022-11-11 06:45:36 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 212 | 4547 | 17582 | 153942 |
+| **:link: URLs** | 214 | 4549 | 17584 | 153944 |
 | **:globe_with_meridians: Domains** | 102 | 382 | 2915 | 30001 |
 | **:triangular_flag_on_post: IPs** | 44 | 670 | 3359 | 56955 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 251 | 2588 | 13623 | 184133 |
+| **#phishing** | 253 | 2590 | 13625 | 184135 |
 | **#scam** | 125 | 672 | 4296 | 34880 |
 | **#malware** | 108 | 2698 | 9661 | 26849 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -142,9 +142,9 @@ If you like the project, please consider giving it a star!
 | **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
 | **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#7** | [drb_ra](https://twitter.com/drb_ra) | 6 |
-| **#8** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 4 |
+| **#7** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
+| **#8** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#9** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#10** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
 
 ## How it works?
