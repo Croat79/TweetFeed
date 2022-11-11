@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 07:15:37 (UTC)</th>
+		<th colspan=4>2022-11-11 07:22:06 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -90,7 +90,7 @@ If you like the project, please consider giving it a star!
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 214 | 4549 | 17584 | 153944 |
-| **:globe_with_meridians: Domains** | 104 | 384 | 2917 | 30003 |
+| **:globe_with_meridians: Domains** | 105 | 385 | 2918 | 30004 |
 | **:triangular_flag_on_post: IPs** | 44 | 670 | 3359 | 56955 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
@@ -101,7 +101,7 @@ If you like the project, please consider giving it a star!
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 255 | 2592 | 13627 | 184137 |
 | **#scam** | 125 | 672 | 4296 | 34880 |
-| **#malware** | 108 | 2698 | 9661 | 26849 |
+| **#malware** | 109 | 2699 | 9662 | 26850 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 10 | 51 | 558 | 1244 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -118,7 +118,7 @@ If you like the project, please consider giving it a star!
 | **#GuLoader** | 0 | 0 | 7 | 220 |
 | **#Hancitor** | 0 | 0 | 0 | 45 |
 | **#IcedID** | 1 | 38 | 74 | 513 |
-| **#Lazarus** | 3 | 5 | 13 | 163 |
+| **#Lazarus** | 4 | 6 | 14 | 164 |
 | **#Lokibot** | 0 | 2 | 16 | 951 |
 | **#log4j** | 0 | 0 | 0 | 247 |
 | **#Log4shell** | 0 | 0 | 0 | 231 |
