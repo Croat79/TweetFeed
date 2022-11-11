@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 08:40:48 (UTC)</th>
+		<th colspan=4>2022-11-11 08:49:02 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 261 | 4598 | 17633 | 153993 |
+| **:link: URLs** | 271 | 4608 | 17643 | 154003 |
 | **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
-| **:triangular_flag_on_post: IPs** | 49 | 675 | 3364 | 56960 |
+| **:triangular_flag_on_post: IPs** | 50 | 676 | 3365 | 56961 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 277 | 2614 | 13649 | 184159 |
+| **#phishing** | 288 | 2625 | 13660 | 184170 |
 | **#scam** | 127 | 674 | 4298 | 34882 |
 | **#malware** | 124 | 2714 | 9677 | 26865 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -143,9 +143,9 @@ If you like the project, please consider giving it a star!
 | **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
 | **#6** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 10 |
 | **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#8** | [BanChaos](https://twitter.com/BanChaos) | 6 |
-| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
-| **#10** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#8** | [harugasumi](https://twitter.com/harugasumi) | 7 |
+| **#9** | [BanChaos](https://twitter.com/BanChaos) | 6 |
+| **#10** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
