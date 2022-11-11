@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 10:05:16 (UTC)</th>
+		<th colspan=4>2022-11-11 10:10:57 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 305 | 4642 | 17677 | 154037 |
+| **:link: URLs** | 312 | 4649 | 17684 | 154044 |
 | **:globe_with_meridians: Domains** | 107 | 387 | 2920 | 30006 |
-| **:triangular_flag_on_post: IPs** | 52 | 678 | 3367 | 56963 |
+| **:triangular_flag_on_post: IPs** | 53 | 679 | 3368 | 56964 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 22 | 257 | 2006 | 5430 |
 
@@ -99,13 +99,13 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 325 | 2662 | 13697 | 184207 |
+| **#phishing** | 331 | 2668 | 13703 | 184213 |
 | **#scam** | 132 | 679 | 4303 | 34887 |
 | **#malware** | 124 | 2714 | 9677 | 26865 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 12 | 53 | 560 | 1246 |
 | **#banker** | 0 | 0 | 6 | 33 |
-| **#AgentTesla** | 2 | 3 | 34 | 2755 |
+| **#AgentTesla** | 4 | 5 | 36 | 2757 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
 | **#CobaltStrike** | 6 | 281 | 1226 | 19765 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 213 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 219 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 31 |
 | **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
