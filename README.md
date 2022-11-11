@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 01:25:22 (UTC)</th>
+		<th colspan=4>2022-11-11 01:32:45 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 4363 | 17398 | 153758 |
+| **:link: URLs** | 56 | 4391 | 17426 | 153786 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 8 | 634 | 3323 | 56919 |
+| **:triangular_flag_on_post: IPs** | 10 | 636 | 3325 | 56921 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 19 | 2356 | 13391 | 183901 |
+| **#phishing** | 25 | 2362 | 13397 | 183907 |
 | **#scam** | 3 | 550 | 4174 | 34758 |
-| **#malware** | 8 | 2598 | 9561 | 26749 |
+| **#malware** | 32 | 2622 | 9585 | 26773 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -136,15 +136,15 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 14 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 41 |
 | **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
 | **#3** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#4** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
 | **#5** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#6** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
-| **#7** | [BanChaos](https://twitter.com/BanChaos) | 1 |
-| **#8** | [v4ensics](https://twitter.com/v4ensics) | 1 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#6** | [romonlyht](https://twitter.com/romonlyht) | 3 |
+| **#7** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
+| **#8** | [BanChaos](https://twitter.com/BanChaos) | 1 |
+| **#9** | [v4ensics](https://twitter.com/v4ensics) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 ## How it works?
