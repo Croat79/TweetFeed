@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 00:15:36 (UTC)</th>
+		<th colspan=4>2022-11-11 00:22:43 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 4338 | 17373 | 153733 |
+| **:link: URLs** | 7 | 4342 | 17377 | 153737 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 1 | 627 | 3316 | 56912 |
+| **:triangular_flag_on_post: IPs** | 5 | 631 | 3320 | 56916 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 3 | 2340 | 13375 | 183885 |
-| **#scam** | 0 | 547 | 4171 | 34755 |
-| **#malware** | 1 | 2591 | 9554 | 26742 |
+| **#phishing** | 5 | 2342 | 13377 | 183887 |
+| **#scam** | 2 | 549 | 4173 | 34757 |
+| **#malware** | 2 | 2592 | 9555 | 26743 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -117,7 +117,7 @@ If you like the project, please consider giving it a star!
 | **#GootLoader** | 0 | 10 | 20 | 721 |
 | **#GuLoader** | 0 | 0 | 7 | 220 |
 | **#Hancitor** | 0 | 0 | 0 | 45 |
-| **#IcedID** | 0 | 37 | 73 | 512 |
+| **#IcedID** | 1 | 38 | 74 | 513 |
 | **#Lazarus** | 0 | 2 | 10 | 160 |
 | **#Lokibot** | 0 | 2 | 16 | 951 |
 | **#log4j** | 0 | 0 | 0 | 247 |
@@ -136,11 +136,11 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 3 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 1 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 3 |
+| **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
+| **#4** | [pingineer_jp](https://twitter.com/pingineer_jp) | 2 |
+| **#5** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
 | **#6** | [-](https://twitter.com/-) | 0 |
 | **#7** | [-](https://twitter.com/-) | 0 |
 | **#8** | [-](https://twitter.com/-) | 0 |
