@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 04:38:28 (UTC)</th>
+		<th colspan=4>2022-11-11 04:47:47 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 182 | 4517 | 17552 | 153912 |
+| **:link: URLs** | 183 | 4518 | 17553 | 153913 |
 | **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
 | **:triangular_flag_on_post: IPs** | 43 | 669 | 3358 | 56954 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 233 | 2570 | 13605 | 184115 |
+| **#phishing** | 234 | 2571 | 13606 | 184116 |
 | **#scam** | 124 | 671 | 4295 | 34879 |
 | **#malware** | 77 | 2667 | 9630 | 26818 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 140 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 141 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 28 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
