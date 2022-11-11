@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 01:47:20 (UTC)</th>
+		<th colspan=4>2022-11-11 01:55:36 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -90,8 +90,8 @@ If you like the project, please consider giving it a star!
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 98 | 4433 | 17468 | 153828 |
-| **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 16 | 642 | 3331 | 56927 |
+| **:globe_with_meridians: Domains** | 22 | 302 | 2835 | 29921 |
+| **:triangular_flag_on_post: IPs** | 23 | 649 | 3338 | 56934 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,8 +99,8 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 52 | 2389 | 13424 | 183934 |
-| **#scam** | 14 | 561 | 4185 | 34769 |
+| **#phishing** | 80 | 2417 | 13452 | 183962 |
+| **#scam** | 42 | 589 | 4213 | 34797 |
 | **#malware** | 53 | 2643 | 9606 | 26794 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
@@ -108,7 +108,7 @@ If you like the project, please consider giving it a star!
 | **#AgentTesla** | 0 | 1 | 32 | 2753 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
-| **#CobaltStrike** | 0 | 275 | 1220 | 19759 |
+| **#CobaltStrike** | 1 | 276 | 1221 | 19760 |
 | **#Dridex** | 0 | 0 | 0 | 584 |
 | **#Emotet** | 1 | 73 | 142 | 1756 |
 | **#FluBot** | 0 | 0 | 1 | 11 |
@@ -137,11 +137,11 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 70 |
-| **#2** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 11 |
-| **#3** | [romonlyht](https://twitter.com/romonlyht) | 10 |
-| **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#5** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#6** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
+| **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 31 |
+| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 11 |
+| **#4** | [romonlyht](https://twitter.com/romonlyht) | 10 |
+| **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
+| **#6** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
 | **#8** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
 | **#9** | [BanChaos](https://twitter.com/BanChaos) | 1 |
