@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 08:26:09 (UTC)</th>
+		<th colspan=4>2022-11-11 08:34:44 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 240 | 4575 | 17610 | 153970 |
+| **:link: URLs** | 256 | 4591 | 17626 | 153986 |
 | **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
 | **:triangular_flag_on_post: IPs** | 49 | 675 | 3364 | 56960 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
@@ -101,7 +101,7 @@ If you like the project, please consider giving it a star!
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 276 | 2613 | 13648 | 184158 |
 | **#scam** | 127 | 674 | 4298 | 34882 |
-| **#malware** | 112 | 2702 | 9665 | 26853 |
+| **#malware** | 124 | 2714 | 9677 | 26865 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 10 | 51 | 558 | 1244 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -110,7 +110,7 @@ If you like the project, please consider giving it a star!
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
 | **#CobaltStrike** | 6 | 281 | 1226 | 19765 |
 | **#Dridex** | 0 | 0 | 0 | 584 |
-| **#Emotet** | 5 | 77 | 146 | 1760 |
+| **#Emotet** | 9 | 81 | 150 | 1764 |
 | **#FluBot** | 0 | 0 | 1 | 11 |
 | **#Follina** | 0 | 0 | 3 | 152 |
 | **#Formbook** | 0 | 0 | 21 | 2470 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 182 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 194 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 31 |
 | **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
 | **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 6 |
-| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
-| **#9** | [drb_ra](https://twitter.com/drb_ra) | 6 |
-| **#10** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
+| **#7** | [BanChaos](https://twitter.com/BanChaos) | 6 |
+| **#8** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 6 |
+| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
+| **#10** | [drb_ra](https://twitter.com/drb_ra) | 6 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
