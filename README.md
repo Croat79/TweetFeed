@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 02:19:11 (UTC)</th>
+		<th colspan=4>2022-11-11 02:25:49 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 121 | 4456 | 17491 | 153851 |
+| **:link: URLs** | 133 | 4468 | 17503 | 153863 |
 | **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
-| **:triangular_flag_on_post: IPs** | 29 | 655 | 3344 | 56940 |
+| **:triangular_flag_on_post: IPs** | 34 | 660 | 3349 | 56945 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,16 +99,16 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 183 | 2520 | 13555 | 184065 |
+| **#phishing** | 188 | 2525 | 13560 | 184070 |
 | **#scam** | 122 | 669 | 4293 | 34877 |
-| **#malware** | 57 | 2647 | 9610 | 26798 |
+| **#malware** | 64 | 2654 | 9617 | 26805 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
 | **#AgentTesla** | 0 | 1 | 32 | 2753 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
-| **#CobaltStrike** | 1 | 276 | 1221 | 19760 |
+| **#CobaltStrike** | 6 | 281 | 1226 | 19765 |
 | **#Dridex** | 0 | 0 | 0 | 584 |
 | **#Emotet** | 1 | 73 | 142 | 1756 |
 | **#FluBot** | 0 | 0 | 1 | 11 |
@@ -137,15 +137,15 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 88 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 100 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 16 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#6** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
-| **#9** | [Dkavalanche](https://twitter.com/Dkavalanche) | 2 |
-| **#10** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
+| **#6** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#7** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#8** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
+| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
+| **#10** | [Dkavalanche](https://twitter.com/Dkavalanche) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
