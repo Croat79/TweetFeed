@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 07:59:51 (UTC)</th>
+		<th colspan=4>2022-11-11 08:05:49 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 232 | 4567 | 17602 | 153962 |
+| **:link: URLs** | 233 | 4568 | 17603 | 153963 |
 | **:globe_with_meridians: Domains** | 105 | 385 | 2918 | 30004 |
-| **:triangular_flag_on_post: IPs** | 47 | 673 | 3362 | 56958 |
+| **:triangular_flag_on_post: IPs** | 48 | 674 | 3363 | 56959 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
 
@@ -99,8 +99,8 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 273 | 2610 | 13645 | 184155 |
-| **#scam** | 125 | 672 | 4296 | 34880 |
+| **#phishing** | 275 | 2612 | 13647 | 184157 |
+| **#scam** | 127 | 674 | 4298 | 34882 |
 | **#malware** | 109 | 2699 | 9662 | 26850 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 10 | 51 | 558 | 1244 |
