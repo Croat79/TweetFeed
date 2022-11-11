@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 09:03:28 (UTC)</th>
+		<th colspan=4>2022-11-11 09:10:34 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,21 +89,21 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 284 | 4621 | 17656 | 154016 |
+| **:link: URLs** | 294 | 4631 | 17666 | 154026 |
 | **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
-| **:triangular_flag_on_post: IPs** | 51 | 677 | 3366 | 56962 |
+| **:triangular_flag_on_post: IPs** | 52 | 678 | 3367 | 56963 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
-| **:1234: MD5** | 20 | 255 | 2004 | 5428 |
+| **:1234: MD5** | 22 | 257 | 2006 | 5430 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 302 | 2639 | 13674 | 184184 |
-| **#scam** | 127 | 674 | 4298 | 34882 |
+| **#phishing** | 313 | 2650 | 13685 | 184195 |
+| **#scam** | 132 | 679 | 4303 | 34887 |
 | **#malware** | 124 | 2714 | 9677 | 26865 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
-| **#ransomware** | 10 | 51 | 558 | 1244 |
+| **#ransomware** | 12 | 53 | 560 | 1246 |
 | **#banker** | 0 | 0 | 6 | 33 |
 | **#AgentTesla** | 2 | 3 | 34 | 2755 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
@@ -136,13 +136,13 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 202 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 205 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 31 |
 | **#4** | [RedPacketSec](https://twitter.com/RedPacketSec) | 19 |
-| **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 14 |
-| **#6** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 10 |
-| **#7** | [AtomSpam](https://twitter.com/AtomSpam) | 10 |
+| **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 16 |
+| **#6** | [AtomSpam](https://twitter.com/AtomSpam) | 13 |
+| **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 10 |
 | **#8** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
 | **#9** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#10** | [BanChaos](https://twitter.com/BanChaos) | 6 |
