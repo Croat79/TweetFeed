@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 02:34:12 (UTC)</th>
+		<th colspan=4>2022-11-11 02:40:56 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 147 | 4482 | 17517 | 153877 |
+| **:link: URLs** | 150 | 4485 | 17520 | 153880 |
 | **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
 | **:triangular_flag_on_post: IPs** | 34 | 660 | 3349 | 56945 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 198 | 2535 | 13570 | 184080 |
+| **#phishing** | 201 | 2538 | 13573 | 184083 |
 | **#scam** | 122 | 669 | 4293 | 34877 |
 | **#malware** | 68 | 2658 | 9621 | 26809 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -136,15 +136,15 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 114 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 115 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 16 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
 | **#6** | [drb_ra](https://twitter.com/drb_ra) | 6 |
 | **#7** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#8** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
+| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 4 |
+| **#9** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
 | **#10** | [Dkavalanche](https://twitter.com/Dkavalanche) | 2 |
 
 ## How it works?
