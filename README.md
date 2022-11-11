@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 08:05:49 (UTC)</th>
+		<th colspan=4>2022-11-11 08:13:03 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,8 +89,8 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 233 | 4568 | 17603 | 153963 |
-| **:globe_with_meridians: Domains** | 105 | 385 | 2918 | 30004 |
+| **:link: URLs** | 236 | 4571 | 17606 | 153966 |
+| **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
 | **:triangular_flag_on_post: IPs** | 48 | 674 | 3363 | 56959 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
@@ -101,7 +101,7 @@ If you like the project, please consider giving it a star!
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 275 | 2612 | 13647 | 184157 |
 | **#scam** | 127 | 674 | 4298 | 34882 |
-| **#malware** | 109 | 2699 | 9662 | 26850 |
+| **#malware** | 110 | 2700 | 9663 | 26851 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 10 | 51 | 558 | 1244 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -110,7 +110,7 @@ If you like the project, please consider giving it a star!
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
 | **#CobaltStrike** | 6 | 281 | 1226 | 19765 |
 | **#Dridex** | 0 | 0 | 0 | 584 |
-| **#Emotet** | 2 | 74 | 143 | 1757 |
+| **#Emotet** | 5 | 77 | 146 | 1760 |
 | **#FluBot** | 0 | 0 | 1 | 11 |
 | **#Follina** | 0 | 0 | 3 | 152 |
 | **#Formbook** | 0 | 0 | 21 | 2470 |
