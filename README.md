@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 00:30:32 (UTC)</th>
+		<th colspan=4>2022-11-11 00:38:05 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 4348 | 17383 | 153743 |
+| **:link: URLs** | 16 | 4351 | 17386 | 153746 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 6 | 632 | 3321 | 56917 |
+| **:triangular_flag_on_post: IPs** | 7 | 633 | 3322 | 56918 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 8 | 2345 | 13380 | 183890 |
+| **#phishing** | 12 | 2349 | 13384 | 183894 |
 | **#scam** | 3 | 550 | 4174 | 34758 |
 | **#malware** | 2 | 2592 | 9555 | 26743 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -136,11 +136,11 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 5 |
+| **#1** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 8 |
 | **#2** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#3** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
-| **#4** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
-| **#5** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
+| **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 3 |
+| **#4** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
+| **#5** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
 | **#6** | [pr0xylife](https://twitter.com/pr0xylife) | 1 |
 | **#7** | [BanChaos](https://twitter.com/BanChaos) | 1 |
 | **#8** | [-](https://twitter.com/-) | 0 |
