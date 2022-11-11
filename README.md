@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 05:16:17 (UTC)</th>
+		<th colspan=4>2022-11-11 05:26:01 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 188 | 4523 | 17558 | 153918 |
+| **:link: URLs** | 194 | 4529 | 17564 | 153924 |
 | **:globe_with_meridians: Domains** | 100 | 380 | 2913 | 29999 |
 | **:triangular_flag_on_post: IPs** | 43 | 669 | 3358 | 56954 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 239 | 2576 | 13611 | 184121 |
+| **#phishing** | 241 | 2578 | 13613 | 184123 |
 | **#scam** | 124 | 671 | 4295 | 34879 |
-| **#malware** | 77 | 2667 | 9630 | 26818 |
+| **#malware** | 81 | 2671 | 9634 | 26822 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 146 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 151 |
 | **#2** | [pingineer_jp](https://twitter.com/pingineer_jp) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 28 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
