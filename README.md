@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 01:40:26 (UTC)</th>
+		<th colspan=4>2022-11-11 01:47:20 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 86 | 4421 | 17456 | 153816 |
+| **:link: URLs** | 98 | 4433 | 17468 | 153828 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 12 | 638 | 3327 | 56923 |
+| **:triangular_flag_on_post: IPs** | 16 | 642 | 3331 | 56927 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 39 | 2376 | 13411 | 183921 |
-| **#scam** | 8 | 555 | 4179 | 34763 |
-| **#malware** | 50 | 2640 | 9603 | 26791 |
+| **#phishing** | 52 | 2389 | 13424 | 183934 |
+| **#scam** | 14 | 561 | 4185 | 34769 |
+| **#malware** | 53 | 2643 | 9606 | 26794 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 0 | 41 | 548 | 1234 |
 | **#banker** | 0 | 0 | 6 | 33 |
@@ -136,10 +136,10 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 65 |
-| **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
-| **#3** | [romonlyht](https://twitter.com/romonlyht) | 5 |
-| **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 5 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 70 |
+| **#2** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 11 |
+| **#3** | [romonlyht](https://twitter.com/romonlyht) | 10 |
+| **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 9 |
 | **#5** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#6** | [pingineer_jp](https://twitter.com/pingineer_jp) | 3 |
 | **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 3 |
