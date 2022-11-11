@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 00:00:24 (UTC)</th>
+		<th colspan=4>2022-11-11 00:08:55 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 4335 | 17370 | 153730 |
+| **:link: URLs** | 2 | 4337 | 17372 | 153732 |
 | **:globe_with_meridians: Domains** | 0 | 280 | 2813 | 29899 |
-| **:triangular_flag_on_post: IPs** | 0 | 626 | 3315 | 56911 |
+| **:triangular_flag_on_post: IPs** | 1 | 627 | 3316 | 56912 |
 | **:1234: SHA256** | 0 | 79 | 394 | 20437 |
 | **:1234: MD5** | 0 | 235 | 1984 | 5408 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 2337 | 13372 | 183882 |
+| **#phishing** | 3 | 2340 | 13375 | 183885 |
 | **#scam** | 0 | 547 | 4171 | 34755 |
 | **#malware** | 0 | 2590 | 9553 | 26741 |
 | **#maldoc** | 0 | 2 | 3 | 219 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 3 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
