@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-11 08:13:03 (UTC)</th>
+		<th colspan=4>2022-11-11 08:20:24 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 236 | 4571 | 17606 | 153966 |
+| **:link: URLs** | 237 | 4572 | 17607 | 153967 |
 | **:globe_with_meridians: Domains** | 106 | 386 | 2919 | 30005 |
-| **:triangular_flag_on_post: IPs** | 48 | 674 | 3363 | 56959 |
+| **:triangular_flag_on_post: IPs** | 49 | 675 | 3364 | 56960 |
 | **:1234: SHA256** | 1 | 80 | 395 | 20438 |
 | **:1234: MD5** | 20 | 255 | 2004 | 5428 |
 
@@ -105,7 +105,7 @@ If you like the project, please consider giving it a star!
 | **#maldoc** | 0 | 2 | 3 | 219 |
 | **#ransomware** | 10 | 51 | 558 | 1244 |
 | **#banker** | 0 | 0 | 6 | 33 |
-| **#AgentTesla** | 0 | 1 | 32 | 2753 |
+| **#AgentTesla** | 2 | 3 | 34 | 2755 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
 | **#BazarLoader** | 0 | 0 | 0 | 160 |
 | **#CobaltStrike** | 6 | 281 | 1226 | 19765 |
@@ -119,7 +119,7 @@ If you like the project, please consider giving it a star!
 | **#Hancitor** | 0 | 0 | 0 | 45 |
 | **#IcedID** | 1 | 38 | 74 | 513 |
 | **#Lazarus** | 4 | 6 | 14 | 164 |
-| **#Lokibot** | 0 | 2 | 16 | 951 |
+| **#Lokibot** | 2 | 4 | 18 | 953 |
 | **#log4j** | 0 | 0 | 0 | 247 |
 | **#Log4shell** | 0 | 0 | 0 | 231 |
 | **#ProxyNotShell** | 0 | 0 | 2 | 2 |
@@ -145,7 +145,7 @@ If you like the project, please consider giving it a star!
 | **#7** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 6 |
 | **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 6 |
 | **#9** | [drb_ra](https://twitter.com/drb_ra) | 6 |
-| **#10** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#10** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
